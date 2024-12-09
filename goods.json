@@ -1,0 +1,388 @@
+[
+  {
+    "id": "1",
+    "name": "Смартфон Apple iPhone 14 Pro 128GB Space Black",
+    "price": 129999,
+    "currency": "RUB",
+    "category": "phones",
+    "hasDiscount": true,
+    "discountPercent": 15,
+    "description": "Смартфон Apple iPhone 14 Pro 128GB Space Black имеет 6,1-дюймовый дисплей Super Retina XDR. Керамическое покрытие снижает риск появления царапин и потертостей на экране при активном использовании телефона. Функция True Tone автоматически увеличивает яркость дисплея при воспроизведении контента на улице в солнечный день. Верхний активный интерфейс Dynamic Island позволяет получить расширенную версию уведомлений при касании. Это создает удобство при переключении треков, а также позволяет читать СМС без разблокировки экрана.",
+    "cashbackPercent": 2,
+    "hasFreeDelievery": true,
+    "colors": [
+      "black", "silver", "gold"
+    ],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/30064906bb.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "1-1",
+        "name": "Ксения",
+        "text": "Как пользователь Apple продуктов уже много лет, я был впечатлен новым iPhone 14 Pro. Это не просто смартфон, это настоящий кусок искусства. ",
+        "rate": 5,
+        "sentTimeStamp": "05.02.2023"
+      },
+      {
+        "id": "1-2",
+        "name": "Олеся",
+        "text": "Стильный шикарный айфон, про-версию взяла из-за трех камер в основном но у него и других плюшек достаточно так что цену свою оправдывает более чем.",
+        "rate": 4,
+        "sentTimeStamp": "05.05.2022"
+      },
+      {
+        "id": "1-3",
+        "name": "Николай",
+        "text": "Отличный телефон! Мощный, качественный, современный!посмотрим, как будет вести себя дальше в использовании",
+        "rate": 5,
+        "sentTimeStamp": "09.09.2023"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Игровой ноутбук Thunderobot 911 Plus X (JT009WE07RU)",
+    "price": 104999,
+    "category": "computers",
+    "currency": "RUB",
+    "hasDiscount": true,
+    "discountPercent": 20,
+    "description": "Игровой ноутбук Thunderobot 911 Plus X (JT009WE07RU) служит не только для проведения досуга за современными ресурсоемкими RPG-проектами, стратегиями и динамичными боевиками, но также для создания нового контента и работы над сложными творческими проектами",
+    "cashbackPercent": 5,
+    "hasFreeDelievery": true,
+    "colors": ["black"],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/30065211bb.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "2-1",
+        "name": "Дарья",
+        "text": "Ноутбук весит всего два килограмма, поэтому его можно носить в сумке хоть целый день и это не будет меня напрягать. Он легкий и компактный, но при этом мощный.",
+        "rate": 5,
+        "sentTimeStamp": "01.04.2023"
+      },
+      {
+        "id": "2-2",
+        "name": "Олеся",
+        "text": "Внешний дизайн очень нравится, корпус металлический, клавитура с мягкой подсветкой, тихая (правда видно отпечатки пальцев на матовых кнопках), включается моментально, работает очень тихо! ",
+        "rate": 4,
+        "sentTimeStamp": "05.06.2022"
+      },
+      {
+        "id": "2-3",
+        "name": "Анастасия",
+        "text": "После 1 недели использования начал самопроизвольно выключаться.",
+        "rate": 1,
+        "sentTimeStamp": "23.09.2023"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Холодильник LG DoorCooling+ GA-B459SMUM",
+    "price": 79999,
+    "currency": "RUB",
+    "category": "kitchen",
+    "hasDiscount": true,
+    "discountPercent": 40,
+    "description": "Холодильник LG DoorCooling+ GA-B459SMUM – просторный двухкамерный холодильник, обеспечивающий сохранение свежести продуктов на длительное время. Нейтральный цвет корпуса станет ценным дополнением любой кухни и удачно впишется в интерьер.",
+    "cashbackPercent": 0,
+    "hasFreeDelievery": true,
+    "colors": ["black", "white"],
+    "imgSource": "https://static.eldorado.ru/photos/71/715/619/35/new_71561935_l_1666689194.jpeg/resize/700x525/",
+    "country": "Russia",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": []
+  },
+  {
+    "id": "4",
+    "name": "Ultra HD (4K) QLED телевизор 55\" Haier 55 Smart TV S7 DH1VMED01RU",
+    "price": 25999,
+    "currency": "RUB",
+    "category": "TV",
+    "hasDiscount": false,
+    "discountPercent": 15,
+    "description": "Ultra HD (4K) QLED-телевизор 55\" Haier 55 Smart TV S7 DH1VMED01RU поддерживает технологию МЕМС, которая добавляет кадры с низкой задержкой. Это обеспечивает воспроизведение динамичных сцен в играх и фильмах без разрыва картинки.",
+    "cashbackPercent": 0,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/400095987bb.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 2,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "4-1",
+        "name": "Сергей",
+        "text": "Телевизор очень достойный! По такой цене вообще очень выгодная покупка.",
+        "rate": 5,
+        "sentTimeStamp": "01.05.2021"
+      },
+      {
+        "id": "4-2",
+        "name": "Андрей",
+        "text": "Купил новинку неделю назад по совету продавца. Телевизор просто огонь.",
+        "rate": 5,
+        "sentTimeStamp": "21.01.2022"
+      },
+      {
+        "id": "4-3",
+        "name": "Алла",
+        "text": "Сломался спустя неделю, долго ждали замену по гарантии, не рекомендую",
+        "rate": 2,
+        "sentTimeStamp": "17.02.2022"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Ultra HD (4K) QLED телевизор 55\" Samsung QE55Q60BAU",
+    "price": 55999,
+    "currency": "RUB",
+    "category": "TV",
+    "hasDiscount": true,
+    "discountPercent": 5,
+    "description": "Ultra HD (4K) QLED-телевизор 55\" Samsung QE55Q60BAU разработан с применением технологии квантовых точек. Благодаря этому изображение на экране выглядит ярким и реалистичным. Двойная подсветка обеспечивает высокий уровень контрастности.",
+    "cashbackPercent": 3,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Pdb/10031269b.jpg/resize/700x525/",
+    "country": "Russia",
+    "guarantee": {
+      "period": 2,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "5-1",
+        "name": "Марина",
+        "text": "Пользуюсь уже неделю, качество картинки просто отличное, яркость и четкость на высоте, цвета насыщенные, не зернистые. Телевизор работает плавно, без рывков и задержек.",
+        "rate": 5,
+        "sentTimeStamp": "01.05.2021"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Смартфон Xiaomi 12X 8+128GB Grey",
+    "price": 47999,
+    "currency": "RUB",
+    "category": "phones",
+    "hasDiscount": false,
+    "discountPercent": 5,
+    "description": "Смартфон Xiaomi 12X 8+128GB Grey имеет два слота для SIM-карт формата Nano. Благодаря этому можно разделять рабочие и личные контакты, выбирать выгодные тарифные планы и опции. В модели установлен процессор Qualcomm Snapdragon 870 с восемью ядрами.",
+    "cashbackPercent": 1,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Pdb/400127195b.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": []
+  },
+  {
+    "id": "7",
+    "name": "Смартфон Samsung Galaxy S22 8+256GB Phantom Black (SM-S901B/DS)",
+    "price": 65999,
+    "currency": "RUB",
+    "category": "phones",
+    "hasDiscount": true,
+    "discountPercent": 10,
+    "description": "Смартфон Samsung Galaxy S22 8+256GB Phantom Black (SM-S901B/DS) передает изображение с насыщенными цветами и оптимальным уровнем детализации. Для этого мобильный телефон оборудован дисплеем с матрицей типа Dynamic AMOLED 2X и разрешением 2340x1080 пикселей.",
+    "cashbackPercent": 4,
+    "hasFreeDelievery": true,
+    "colors": [
+      "black", "silver", "pink gold", "light-blue"],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Pdb/30066372b.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "7-1",
+        "name": "Игорь",
+        "text": "Мне телефон понравился, пользуюсь им уже 3-ю неделю. Работает шустро, не глючит.",
+        "rate": 5,
+        "sentTimeStamp": "01.05.2021"
+      },
+      {
+        "id": "7-2",
+        "name": "Полина",
+        "text": "Уже не один год пользуюсь Самсунгом, поэтому новый телефон не стал исключением. Он просто идеален, в нем все идеально.",
+        "rate": 5,
+        "sentTimeStamp": "02.07.2022"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Электрическая плита Gorenje GEC5C40WC",
+    "price": 43999,
+    "currency": "RUB",
+    "category": "kitchen",
+    "hasDiscount": true,
+    "discountPercent": 10,
+    "description": "Электрическая плита Gorenje GEC5C40WC оснащена духовкой вместительностью 70 л, что позволяет готовить праздничный стол для большой семьи. Для удобства и экономии времени можно размещать блюда на нескольких уровнях - конвекция способствует равномерному пропеканию.",
+    "cashbackPercent": 0,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/20083684bb.jpg/resize/700x525/",
+    "country": "Russia",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "8-1",
+        "name": "Марина",
+        "text": "Все отлично",
+        "rate": 5,
+        "sentTimeStamp": "01.05.2021"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Игровой компьютер Thunderobot Alpha XD i5-12400/16Gb/SSD512Gb/RTX3050/noOS",
+    "price": 99999,
+    "currency": "RUB",
+    "category": "computers",
+    "hasDiscount": false,
+    "discountPercent": 10,
+    "description": "Игровой компьютер Thunderobot Alpha XD i5-12400/16Gb/SSD512Gb/RTX3050/noOS оборудован шестиядерным процессором на базе Intel Core i5. Элемент отвечает за высокую производительность устройства при запуске нескольких ресурсоемких приложений. Твердотельный накопитель характеризуется высокой пропускной способностью и надежностью. ",
+    "cashbackPercent": 0,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/30066252bb.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "9-1",
+        "name": "Марина",
+        "text": "Как и ожидалось от компании Thunderobot, системный блок является мощным и надежным для игр и работы. ",
+        "rate": 5,
+        "sentTimeStamp": "01.08.2021"
+      },
+      {
+        "id": "9-2",
+        "name": "Александр",
+        "text": "Не соответствует цена/качество",
+        "rate": 2,
+        "sentTimeStamp": "01.01.2022"
+      },
+      {
+        "id": "9-3",
+        "name": "Владимир",
+        "text": "Нет ОС, долгая доставка, сам по себе дорогой",
+        "rate": 3,
+        "sentTimeStamp": "01.01.2022"
+      },
+      {
+        "id": "9-4",
+        "name": "Андрей",
+        "text": "Топ сборка за свои деньги",
+        "rate": 5,
+        "sentTimeStamp": "08.11.2023"
+      },
+      {
+        "id": "9-5",
+        "name": "Андрей",
+        "text": "Полностью удовлетворил мои потребности в играх, работает быстро и бесшумно.",
+        "rate": 5,
+        "sentTimeStamp": "08.11.2023"
+      },
+      {
+        "id": "9-6",
+        "name": "Тимофей",
+        "text": "Ну такое, могло быть и лучше",
+        "rate": 4,
+        "sentTimeStamp": "12.12.2022"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Игровой компьютер MSI MAG Codex X5, i7K RTX 3080/32GB/1TB HDD + 1TB SSD",
+    "price": 229999,
+    "currency": "RUB",
+    "category": "computers",
+    "hasDiscount": true,
+    "discountPercent": 15,
+    "description": "Игровой компьютер MSI MAG Codex X5, i7K RTX 3080/32GB/1TB HDD + 1TB SSD оптимален для профессиональных киберспортсменов и начинающих геймеров. За высокую производительность отвечает мощный процессор бренда Intel. Модель стабильно функционирует без зависаний и сбоев при запуске нескольких ресурсоемких приложений. Это способствует комфортному использованию устройства при рендеринге видео, ретушировании и создании мультимедийного контента, 3D-моделировании. ",
+    "cashbackPercent": 0,
+    "hasFreeDelievery": true,
+    "colors": [],
+    "imgSource": "https://static.eldorado.ru/photos/mv/Big/30064736bb.jpg/resize/700x525/",
+    "country": "China",
+    "guarantee": {
+      "period": 1,
+      "unit": "year"
+    },
+    "reviews": [
+      {
+        "id": "10-1",
+        "name": "Виктор",
+        "text": "На вид вроде бы обычный системный блок, но вот внутри \"начинка\" просто нереально крутая. ",
+        "rate": 5,
+        "sentTimeStamp": "01.08.2021"
+      },
+      {
+        "id": "10-2",
+        "name": "Александр",
+        "text": "Не понравился",
+        "rate": 1,
+        "sentTimeStamp": "01.01.2022"
+      },
+      {
+        "id": "10-3",
+        "name": "Владимир",
+        "text": "Нет ОС, долгая доставка, сам по себе дорогой",
+        "rate": 2,
+        "sentTimeStamp": "01.01.2022"
+      },
+      {
+        "id": "10-4",
+        "name": "Андрей",
+        "text": "Топ сборка за свои деньги",
+        "rate": 5,
+        "sentTimeStamp": "08.11.2023"
+      },
+      {
+        "id": "10-5",
+        "name": "Андрей",
+        "text": "Полностью удовлетворил мои потребности в играх, работает быстро и бесшумно.",
+        "rate": 5,
+        "sentTimeStamp": "08.11.2023"
+      },
+      {
+        "id": "10-6",
+        "name": "Тимофей",
+        "text": "Ну такое, могло быть и лучше",
+        "rate": 4,
+        "sentTimeStamp": "12.12.2022"
+      }
+    ]
+  }
+]
